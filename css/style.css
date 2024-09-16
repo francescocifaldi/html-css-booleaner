@@ -9,3 +9,12 @@ h1{
     font-size: xx-large;
     margin-bottom: 0px;
 }
+
+thead{
+    background-color:cornflowerblue;
+    color: white;
+}
+
+.colorful{
+    background-color: aquamarine;
+}
