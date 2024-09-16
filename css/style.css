@@ -5,9 +5,25 @@ header {
     background-repeat: repeat-x;
 }
 
+figcaption{
+    font-size: small;
+}
+
+ul{
+    padding: 20px;
+}
+
+h1, h2{
+    margin-bottom: 0px;
+}
+
 h1{
     font-size: xx-large;
-    margin-bottom: 0px;
+}
+
+h2{
+    font-size: large;
+    color: gray;
 }
 
 thead{
@@ -17,4 +33,25 @@ thead{
 
 .colorful{
     background-color: aquamarine;
+}
+
+div{
+    height: 200px;
+    margin-bottom: 0px;
+}
+
+#first{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+}
+
+#second{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+}
+
+.inside{
+    padding-left: 10px;
+    padding-top: 10px;
+    color: white;
 }
