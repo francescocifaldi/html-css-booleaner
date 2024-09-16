@@ -4,3 +4,8 @@ header {
     background-color: cadetblue;
     background-repeat: repeat-x;
 }
+
+h1{
+    font-size: xx-large;
+    margin-bottom: 0px;
+}
